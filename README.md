@@ -1,10 +1,41 @@
 # This is a try to make the ESP8266 OTA programming by Auto update form GitHub site.
 
->  # **Note:**
+>  # **Note 1:**
 > 
 > This Project has some errors which asked [here][1]:
 > 
 > [![enter image description here][2]][2]
+
+
+> **Note 2:**
+> 
+> Based on the
+> [timemage](https://arduino.stackexchange.com/users/70020/timemage)
+> answer, I have changed the address of `bin` and `TXT` file by finding
+> the download link of those files form the GitHub. And it has been
+> working by changing the `blob` part of address to `raw`, so the bin
+> address changed form
+> `https://github.com/soheilpaper/ota_github_blink/blob/main/BlinkWithoutDelay_ino_esp8285.bin`
+> to
+> `https://github.com/soheilpaper/ota_github_blink/raw/main/BlinkWithoutDelay_ino_esp8285.bin`
+> 
+> And the
+> **https://github.com/soheilpaper/ota_github_blink/blob/main/version.txt**
+> to 
+> **https://raw.githubusercontent.com/soheilpaper/ota_github_blink/main/version.txt**
+> 
+> 
+> And now that error has been fixed as you can see below:
+> 
+> ![enter image description here](https://i.stack.imgur.com/z6cw8.png)
+> 
+> Although I gave some dupt about upgrading the main code by getting
+> this output via serial port:
+> 
+> ``` Device already on latest firmware version
+> 
+> ``` And I would check it after some resting!.
+
 
 ### The main instruction:
 
