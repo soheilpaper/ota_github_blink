@@ -8,7 +8,7 @@ BearSSL::CertStore certStore;
  
 const String FirmwareVer={"2.0"};//{"1.8"}; 
 #define URL_fw_Version "https://github.com/soheilpaper/ota_github_blink/blob/main/version.txt"
-#define URL_fw_Bin "https://github.com/soheilpaper/ota_github_blink/blob/main/BlinkWithoutDelay.ino.esp8285.bin" //"https://raw.githubusercontent.com/programmer131/otaFiles/master/firmware.bin"
+#define URL_fw_Bin "https://github.com/soheilpaper/ota_github_blink/blob/main/BlinkWithoutDelay_ino_esp8285.bin" //"https://raw.githubusercontent.com/programmer131/otaFiles/master/firmware.bin"
 const char* host = "raw.githubusercontent.com";
 const int httpsPort = 443;
 
