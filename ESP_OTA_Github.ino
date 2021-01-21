@@ -160,7 +160,7 @@ void loop()
 {
    repeatedCall();   
    delay (1000);
-   Serial.println("Connected to FirmwareUpdate");
+   Serial.println("Connecting to FirmwareUpdate");
    FirmwareUpdate();
    Serial.println("end of FirmwareUpdate");
 
