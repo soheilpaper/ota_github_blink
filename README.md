@@ -17,12 +17,9 @@
 > address changed form
 > `https://github.com/soheilpaper/ota_github_blink/blob/main/BlinkWithoutDelay_ino_esp8285.bin`
 > to
-> `https://github.com/soheilpaper/ota_github_blink/raw/main/BlinkWithoutDelay_ino_esp8285.bin`
-> 
-> And the
-> **https://github.com/soheilpaper/ota_github_blink/blob/main/version.txt**
-> to 
-> **https://raw.githubusercontent.com/soheilpaper/ota_github_blink/main/version.txt**
+> `https://github.com/soheilpaper/ota_github_blink/raw/main/BlinkWithoutDelay_ino_esp8285.bin` And the
+> `https://github.com/soheilpaper/ota_github_blink/blob/main/version.txt`
+> to `https://raw.githubusercontent.com/soheilpaper/ota_github_blink/main/version.txt`
 > 
 > 
 > And now that error has been fixed as you can see below:
