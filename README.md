@@ -32,9 +32,10 @@
 > Although I gave some dupt about upgrading the main code by getting
 > this output via serial port:
 > 
-> ``` Device already on latest firmware version
-> 
-> ``` And I would check it after some resting!.
+> ``` 
+>Device already on latest firmware version
+> ```
+>  And I would check it after some resting!.
 
 
 ## The main instruction:
