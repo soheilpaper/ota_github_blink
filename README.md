@@ -1,6 +1,6 @@
 # This is a try to make the ESP8266 OTA programming by Auto update form GitHub site.
 
->  # **Note 1:**
+>  **Note 1:**
 > 
 > This Project has some errors which asked [here][1]:
 > 
@@ -37,7 +37,7 @@
 > ``` And I would check it after some resting!.
 
 
-### The main instruction:
+## The main instruction:
 
 First you need to do these steps:
 
